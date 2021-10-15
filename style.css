@@ -1,0 +1,35 @@
+html {
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    font-family: Monospace;
+    font-size : 15px;
+}
+a{text-decoration: none; 
+    font-size: 15px;
+    font-family: sans-serif;
+    padding: 14px 10px}
+ul{padding: 14px}
+li{list-style: none; display: inline;}
+li a{background: #222; color:#d4d4d4;}
+li a:hover{background: #4da4ff; color:#fff;}
+.navi{background: #222; height: 50px}
+
+
+.data {
+    width: 75%;
+    display: flex;
+    background-color: rgba(224, 215, 215, 0.938);
+}
+
+.Berita {
+    width: 25%;
+    background-color: rgba(224, 215, 215, 0.938);
+    border-left: 5px black solid;
+}
+
+.BODY {
+    width: auto;
+    height: auto;
+    display: flex;
+    border: 5px black solid;
+}
